@@ -30,6 +30,5 @@ I'm a **bioinformatics enthusiast** with a strong interest in **microbiome-host 
 - **Version Control**: Git, GitHub
 
 ### 🌍 Let's Connect!
-- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/haseebmanzoor/)](#)
-- **Twitter**: [Your Twitter Profile](#)
-- **Email**: [Your Email](#)
+- [LinkedIn](https://www.linkedin.com/in/haseebmanzoor/)
+- [Email](haseebmanzoor667@gmail.com)
