@@ -1,6 +1,6 @@
 ### Hi, this is Haseeb Manzoor.
 ---
-### Bioinformatician/NGS Data Analyst
+### A Passionate Bioinformatician & NGS Data Analyst
 - 👋 Hi, I’m @haseebmanzur
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
