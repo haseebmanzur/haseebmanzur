@@ -27,7 +27,7 @@ I'm a **bioinformatics enthusiast** with a strong interest in **microbiome-host 
 
 ### 🛠️ Tech Stack & Tools
 - **Languages**: Python, R, Shell scripting
-- **Bioinformatics Tools**: BWA, BLAST, Samtools, AntiSMASH, Bioconda, and more.
+- **Bioinformatics Tools**: Fastp, fastQC, antiSMASH, AMPHORA2, CoverM, DIAMOND, STAR, Bowtie, BWA, BLAST, Samtools, AntiSMASH, Bioconda, and more.
 - **Data Analysis**: Pandas, Scikit-learn, Biopython
 - **Version Control**: Git, GitHub
 
