@@ -33,4 +33,5 @@ I'm a **bioinformatics enthusiast** with a strong interest in **microbiome-host 
 
 ### 🌍 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/haseebmanzoor/)
-- [Email](haseebmanzoor667@gmail.com)
+- [Email](haseebmanzoor667@gmail.com)     
+- [Instagram](https://www.instagram.com/haseebmanzur/) 
