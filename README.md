@@ -4,6 +4,7 @@
 I'm a **bioinformatics enthusiast** with a strong interest in **microbiome-host interactions**, **multi-omic analysis**, and **machine learning applications** in biology. My work focuses on combining computational biology and bioinformatics to understand complex biological systems and diseases.
 
 - [Checkout My CV/Resume](https://drive.google.com/file/d/1_5XF6smlqVKZVLtsvGZhYdeaIb-YnXsF/view?usp=sharing)
+- [Checkout My CV/Resume](https://drive.google.com/file/d/1x-J3fE84ci8-ANB4Ref2Y166tC6JgnQj/view?usp=sharing)
 
 ### 🔬 Current Projects
 - **ARG-PRISM**: A machine learning-based framework for precise identification of **antibiotic resistance genes** from metagenomes.
