@@ -20,10 +20,6 @@ I'm a **bioinformatics enthusiast** with a strong interest in **microbiome-host 
 - Presented research at **ICiLS-24** on **Gut Microbiome-Metabolite Signatures** in breast cancer patients.
 - Developed **bioinformatics pipelines** using tools like **BWA**, **BLAST**, and **Samtools**.
 - Active member of the **International Society for Computational Biology (ISCB)** and Vice President of ***ISCB-SC Regional Student Council Pakistan**.
-  
-### 🌱 Future Goals
-- **PhD aspirations**: I'm applying to labs that focus on computational modeling, multi-omics, cancer biology, and host-microbiome interactions.
-- Seeking to extend the **ARG-PRISM project** for future grants.
 
 ### 🛠️ Tech Stack & Tools
 - **Languages**: Python, R, Shell scripting
